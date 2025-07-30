@@ -1,9 +1,3 @@
-
----
-
-### 📦 `audit-service/README.md`
-
-```md
 # 🧾 Kanri - Audit Service
 
 **Descripción:**  
